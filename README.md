@@ -5,7 +5,8 @@
 🌱 I’m currently learning Data Science using Python.
 
 📚 My stack:
-- NumPy, Pandas, BigQuery (+ SQL)
+- NumPy
+- Pandas, BigQuery (+ SQL)
 - Matplotlib + Seaborn
 - SciKit-Image
 - SciKit-Learn
