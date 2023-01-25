@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning backend development using Django. In the past I also studied data science as well as cybersecurity.
 
-📚 My Web stack:
+📚 My web stack:
 - HTML5
 - CSS3 / Sass
 - JavaScript
@@ -12,7 +12,7 @@
 - Python
 - Django Web Framework
 
-📚 My Data Science stack:
+📚 My DS stack:
 - NumPy
 - Pandas, BigQuery (+ SQL)
 - Matplotlib + Seaborn
