@@ -2,9 +2,17 @@
 
 👀 I’m interested in programming using such languages as C, C++, Assembly, Python, Java and others. In addition, I'm interested in the InfoSec field. I'm also a Data Science enthusiast, for I really love various Machine Learning topics.
 
-🌱 I’m currently learning Data Science using Python.
+🌱 I’m currently learning backend development using Django. In the past I also studied data science as well as cybersecurity.
 
-📚 My stack:
+📚 My Web stack:
+- HTML5
+- CSS3 / Sass
+- JavaScript
+- Alpine.js / Vue
+- Python
+- Django Web Framework
+
+📚 My Data Science stack:
 - NumPy
 - Pandas, BigQuery (+ SQL)
 - Matplotlib + Seaborn
