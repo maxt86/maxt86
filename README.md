@@ -12,7 +12,7 @@
 - SciKit-Learn
 - TensorFlow + Keras
 
-📫 How to reach me: [VK](https://vk.com/maxt86)
+📫 My e m a i l adress: maxt86 AT pm DOT me
 <!--- 💞️ I’m looking to collaborate on ... --->
 
 <!---
