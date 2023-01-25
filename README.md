@@ -12,7 +12,7 @@
 - SciKit-Learn
 - TensorFlow + Keras
 
-📫 My e m a i l adress: maxt86 AT pm DOT me
+📫 My e m a i l: maxt86 AT pm DOT me
 <!--- 💞️ I’m looking to collaborate on ... --->
 
 <!---
